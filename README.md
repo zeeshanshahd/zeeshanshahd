@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zeeshanshahd
 - 👀 I’m interested in web development using latest technologies.
+- Proficient in HTML, CSS and Javascript.
 - 🌱 I’m currently learning React to create blazingly fast web applications.
 - 💞️ I’m looking to collaborate on javascript projects.
 
